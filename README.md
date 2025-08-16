@@ -1,7 +1,7 @@
 # Pattern Recognition and Machine Learning (PRML)
 
-This repository contains my solutions to the assignments of the **CS5691: Pattern Recognition and Machine Learning** course.  
-Each assignment folder includes the code, and the corresponding report is linked below.
+This repository contains my solutions to the problem statements of the **CS5691: Pattern Recognition and Machine Learning** course.  
+Each assignment folder includes the code and report.
 
 ---
 
@@ -31,5 +31,3 @@ Each assignment folder includes the code, and the corresponding report is linked
   - Model comparison and ensemble prediction (majority voting)  
 
 ---
-
-## 📑 Repository Structure
